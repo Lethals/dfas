@@ -26,7 +26,16 @@ print "    | |_) | /  \  | |__) |   /  \  |  \| |  / /| |__) | | | | "
 print "    |  _ < / /\ \ |  _  /   / /\ \ | . ` | / / |  _  /| | | | "
 print "    | |_) / ____ \| | \ \  / ____ \| |\  |/ /__| | \ \| |_| | "
 print "    |____/_/    \_\_|  \_\/_/    \_\_| \_/_____|_|  \_\\___/  "
-print "                                                              "
+print "    Shopier - 998bf4076dbe6c128d3e5bc6036faefe                                                          "
+print "    List - Orders"
+print "1_ventum|urun_1"
+print "1_bartu05ak|1"
+print "1_furkaan|urun_2"
+print "1_furkaan|3"
+print "1_ArdaErgn|urun_2"
+print "1_Alper4425|urun_1"
+print "1_ugur1905ugur|urun_1"
+print "1_Kralsbatu2|urun_1"
 
 print
 ip = raw_input("IP Target : ")
