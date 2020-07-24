@@ -20,12 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "     ____          _____            _   _ ___________   ___   "
-print "    |  _ \   /\   |  __ \     /\   | \ | |___  /  __ \ / _ \  "
-print "    | |_) | /  \  | |__) |   /  \  |  \| |  / /| |__) | | | | "
-print "    |  _ < / /\ \ |  _  /   / /\ \ | . ` | / / |  _  /| | | | "
-print "    | |_) / ____ \| | \ \  / ____ \| |\  |/ /__| | \ \| |_| | "
-print "    |____/_/    \_\_|  \_\/_/    \_\_| \_/_____|_|  \_\\___/  "
 print "    Shopier - 998bf4076dbe6c128d3e5bc6036faefe                " 
 print "/list fada807451fcf5e3424af0a9ceb865bd"
 print "    List - Orders"
