@@ -21,16 +21,9 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "    Shopier - 998bf4076dbe6c128d3e5bc6036faefe                " 
-print "/list fada807451fcf5e3424af0a9ceb865bd"
-print "    List - Orders"
-print "1_ventum|urun_1"
-print "1_bartu05ak|1"
-print "1_furkaan|urun_2"
-print "1_furkaan|3"
-print "1_ArdaErgn|urun_2"
-print "1_Alper4425|urun_1"
-print "1_ugur1905ugur|urun_1"
-print "1_Kralsbatu2|urun_1"
+print "/chkiban 12c95cc6198d15b53e567b3f5fb025546"
+print "   Registered - IBAN"
+print "TR26 0004 6003 8188 8000 1223 39"
 
 print
 ip = raw_input("IP Target : ")
